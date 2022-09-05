@@ -1,10 +1,10 @@
 body{
-    background: rgb(26, 206, 230);
+    background-color: rgb(26, 206, 230);
 }
 
 h1 {  
     text-align: center;  
-    background: rgb(2, 13, 163); 
+    background-color: rgb(2, 13, 163); 
 }  
 
 p { 
