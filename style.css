@@ -4,14 +4,14 @@ body{
 
 h1 {  
     text-align: center;  
-    background-color: rgb(2, 13, 163); 
+    background: rgb(2, 13, 163); 
 }  
 
 p { 
     text-align: center;
-    background-color: rgb(2, 13, 163);
+    background: rgb(2, 13, 163);
 }
 
  strong { 
-     color: rgb(56, 224, 236); rgb
+     color: rgb(56, 224, 236);
  }
