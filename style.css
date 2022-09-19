@@ -4,13 +4,13 @@ body{
 
  #medicina {  
 
-     width: 50%;
+     width: 100%;
      height: 250px;
  }
  
 h1 {  
     text-align: center;  
-    background: rgb(2, 13, 163); 
+    background: rgb(3, 13, 153); 
 }  
 
 p { 
