@@ -22,3 +22,11 @@ p {
      color: rgb(56, 224, 236);
  }
 
+ #especial {  
+     font-style: 20pt;
+ }
+
+.itens {  
+    font-style: italic;
+}
+
