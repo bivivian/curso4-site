@@ -28,6 +28,7 @@ p {
 
 .itens {  
     font-style: italic;
+    color: white;
 }
 h2 { 
     text-align: center;
@@ -40,10 +41,10 @@ h2 {
 ul { 
     display: inline-block;
     vertical-align: top;
-    margin-right: 10;
-    width: 20;
+    margin-right: 10%;
+    width: 20%;
 }
 
  #imagen2{
-    with: 50%;
+    width: 50%;
  }
