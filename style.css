@@ -39,6 +39,9 @@ h2 {
 
 ul { 
     display: inline-block;
+    vertical-align: top;
+    margin-right: 10;
+    width: 20;
 }
 
  #imagen2{
