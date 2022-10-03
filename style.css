@@ -36,3 +36,11 @@ h2 {
 .beneficios{ 
     background-color: rgb(5, 63, 255);
 }
+
+ul { 
+    display: inline-block;
+}
+
+ #imagen2{
+    with: 50%;
+ }
