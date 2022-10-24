@@ -1,9 +1,10 @@
 header{
-    background: black;
+    background: rgb(2, 2, 105);
 }
 
 nav li {
     display: inline;
+    margin: 10px;
 }
 
 
