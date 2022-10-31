@@ -2,10 +2,22 @@ header{
     background: rgb(2, 2, 105);
 }
 
-nav li {
+h1{
     display: inline;
-    margin: 10px;
 }
+
+#logo{
+    width: 250px;
+}
+
+nav{
+    display: inline;
+}
+nav li{
+   display:inline;
+    margin: 10px;
+
+
 
 
 
