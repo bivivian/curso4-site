@@ -13,11 +13,20 @@ h1{
 nav{
     display: inline;
 }
+
 nav li{
    display:inline;
     margin: 10px;
+}
 
+nav a {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    text size: 20px;
+    text-decoration: none;
 
+}
 
 
 
